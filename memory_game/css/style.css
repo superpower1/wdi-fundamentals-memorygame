@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+
+}
+
+body a {
+   text-decoration: none;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+  color: #0D2C40;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #0D2C40;
+  letter-spacing: 1px;
+}
+
+.navibar {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #f15b31;
+  letter-spacing: 1px;
+}
+
+p {
+  font-family: "Droid Serif", serif;
+  line-height: 26px;
+  font-size: 18px;
+}
