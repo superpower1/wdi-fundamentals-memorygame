@@ -1,10 +1,19 @@
 body {
   text-align: center;
-
+  margin: 0;
 }
 
 body a {
    text-decoration: none;
+}
+
+head {
+  background-color: #f15b31;
+  color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 h1 {
@@ -13,6 +22,7 @@ h1 {
   font-weight: 400;
   color: #0D2C40;
   letter-spacing: 1px;
+  margin: 0;
 }
 
 h2 {
@@ -23,16 +33,36 @@ h2 {
   letter-spacing: 1px;
 }
 
-.navibar {
+nav {
+  background-color: #00a6b3;
+  color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+nav a {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 600;
   color: #f15b31;
   letter-spacing: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+main {
+  width: 850px;
+  margin: 35px auto;
 }
 
 p {
   font-family: "Droid Serif", serif;
   line-height: 26px;
   font-size: 18px;
+}
+
+img {
+  margin-top: 40px;
+  margin-left: 8px;
+  margin-right: 8px;
 }
